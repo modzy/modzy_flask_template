@@ -45,14 +45,13 @@ This code accompanies this [tutorial](https://docs.modzy.com/docs/modzy-in-a-fla
 
 ## Table of contents
 
-- [Folders or files within your repository](<link to folder or file>)
 - [Flask Application code](app)
 - [config.py](config.py): Flask configuration details
 - [demo_site.py](demo_site.py): Flask startup 
 
 ## Contributing
 
-We are happy to receive contributions from all of our users. Check out our [contributing file](https://github.com/modzy/modzy_flask_template/blob/master/CONTRIBUTING.adoc) to learn more.
+We are happy to receive contributions from all of our users. Check out our [contributing file](https://github.com/modzy/modzy_flask_template/blob/master/CONTRIBUTING.md) to learn more.
 
 ## Code of conduct
 

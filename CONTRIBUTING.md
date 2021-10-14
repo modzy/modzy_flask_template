@@ -1,15 +1,15 @@
 # Contributing to this Repository
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/modzy/public-repo-starter-template">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/modzy/public-repo-starter-template">
-<img alt="GitHub Release Date" src="https://img.shields.io/github/issues-raw/modzy/public-repo-starter-template">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/modzy/modzy_flask_template">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/modzy/modzy_flask_template">
+<img alt="GitHub Release Date" src="https://img.shields.io/github/issues-raw/modzy/modzy_flask_template">
 
-<a href="https://github.com/modzy/public-repo-starter-template/tree/main/CODE_OF_CONDUCT.md" style="text-decoration:none">
+<a href="https://github.com/modzy/modzy_flask_template/tree/main/CODE_OF_CONDUCT.md" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" alt="Contributor Covenant" style="max-width:100%;">
 </a>
 
 
-[Readme](https://github.com/modzy/public-repo-starter-template/tree/main/README.md) | [Documentation](https://docs.modzy.com)
+[Readme](https://github.com/modzy/modzy_flask_template/tree/main/README.md) | [Documentation](https://docs.modzy.com)
 
 Contributions are welcome and they are greatly appreciated! Every little bit helps, and credit will always be given.
 
@@ -18,7 +18,7 @@ Below you'll find our contributing requirements, a step-by-step guideline, and o
 
 ## Requirements
 
-- Search previous link:https://github.com/modzy/public-repo-starter-template/issues[issues] before making new ones to avoid duplicates.
+- Search previous link:https://github.com/modzy/modzy_flask_template/issues[issues] before making new ones to avoid duplicates.
 - If you are reporting a bug, please include:
   - Your operating system name and version.
   - Any details about your local setup that might be helpful in troubleshooting.
@@ -41,7 +41,7 @@ Below you'll find our contributing requirements, a step-by-step guideline, and o
 
 Clone the repository:
 
-- `$ git clone https://github.com/modzy/public-repo-starter-template.git`
+- `$ git clone https://github.com/modzy/modzy_flask_template.git`
 
 Create a branch for your awesome new feature:
 
